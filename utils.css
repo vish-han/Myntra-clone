@@ -1,0 +1,15 @@
+.flex{
+    display: flex;
+}
+.justify-center{
+
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+    
+}
+.mx-2{
+    margin-left:10px;
+    margin-right:10px;
+}

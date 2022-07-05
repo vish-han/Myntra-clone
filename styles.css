@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bakbak+One&family=Josefin+Sans&family=Kantumruy+Pro:wght@200&family=Lato:ital,wght@0,300;0,400;1,300;1,400&family=Oswald:wght@200&family=Roboto:wght@100&display=swap');
+html,body{
+    height:100%;
+    width:100%;
+    font-family: 'Kantumruy Pro', sans-serif;
+font-weight: bold;
+
+}
+.left img{
+    width: 65px;
+    height: 35px;
+}
+
+.container{
+    padding:0 10vw;
+    height: 61px;
+    margin: auto;
+}
+nav ul li{
+    list-style: none;
+    padding: 0 12px;
+    font-weight:semibold;
+    text-transform: upperc;
+}
+nav{
+    justify-content: space-between;
+}
+.right{
+    margin-left: 100px;
+}
+
+.section{
+    background-color:#f2f2f2;
+    height: 100vw
+}
+header{
+    position:sticky;
+    top: 0;
+    background-color:white;
+}
+input{
+    color: black;
+   background-color:white;
+    width: 351px;
+    height: 25px;
+    border: 1px solid rgb(225, 219, 219) ;
+    border-radius: 2px;
+    margin-right: 10px;
+    padding: 5px 5px;
+
+    margin-left: 10px;
+}
+.right img{
+    width:25px;
+    height:25px;
+}
